@@ -11,6 +11,10 @@ This repository contains the data collected and crowdsourcing codebase used in [
   + Refer to `interface/README.md` for running the application.
 - `interface_screenshots` contains images showing the user interfaces for the tutorial, writing, and validation tasks used for all four protocols.
 
+## License
+
+The collected data is released under the Open ANC's license.
+
 ## Citation
 
 ```
