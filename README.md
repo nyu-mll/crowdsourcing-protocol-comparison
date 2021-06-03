@@ -13,7 +13,7 @@ This repository contains the data collected and crowdsourcing codebase used in [
 
 ## License
 
-The collected data is released under the Open ANC's license.
+The collected data is released under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0).
 
 ## Citation
 
