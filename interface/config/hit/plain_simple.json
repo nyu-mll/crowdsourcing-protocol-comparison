@@ -2,7 +2,7 @@
     {
         "collection_mode": "plain",
         "title": "Write hard reading comprehension questions!",
-        "data_path": "data/source/sample_oanc_passages.json",
+        "data_path": "data/source/sample_oanc_dataset.json",
         "collected_data_path": "",
         "hit_num": 2,
         "max_assignments": 5,
