@@ -108,7 +108,8 @@ where `--passage_num` assigns the number of passages contained in a single HIT a
 #### [Optional] Call models in the data collection loop
 
 - You can call your pretrained models in the data collection loop.
-- This collection mode is already implemented as `adv` (adversarial).
+- This collection mode is implemented as `adv` (adversarial).
+  + You need to add `predict_example` function to get model prediction (we used example code in `huggingface/transformers`)
   + You need to prepare a pretrained model and load it with running parameters using `--model_config` that takes a json configuration
 - You need to create a config file in the `model` directory.
 - You can call multiple models with `--model_ensemble` in calling `run.py`
