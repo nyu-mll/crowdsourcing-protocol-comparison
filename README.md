@@ -15,7 +15,7 @@ This repository contains the data collected and crowdsourcing codebase used in [
 
 ```
 @inproceedings{nangia-etal-2021-ingredients,
-  title={What Ingredients Make for an Effective Crowdsourcing Protocol for Difficult NLU Data Collection Tasks?},              
+  title={What Ingredients Make for an Effective Crowdsourcing Protocol for Difficult {NLU} Data Collection Tasks?},              
   author={Nikita Nangia, Saku Sugawara, Harsh Trivedi, Alex Warstadt, Clara Vania, Samuel R. Bowman},
   booktitle={Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing},
   month=aug,
